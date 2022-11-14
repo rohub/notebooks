@@ -1,0 +1,6 @@
+math
+matplotlib
+matplotlib.pyplot
+gdal
+numpy
+warnings
