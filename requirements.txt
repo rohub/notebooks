@@ -1,0 +1,4 @@
+matplotlib
+osgeo
+gdal
+numpy
