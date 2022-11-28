@@ -1,0 +1,15 @@
+name: general-exploration-landcover_io
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pystac-client
+  - odc-stac
+  - jupyter
+  - geopandas
+  - rioxarray
+  - rasterstats
+  - hvplot
+  - datashader
+  - scikit-learn
+  - geoviews
