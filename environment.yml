@@ -1,0 +1,7 @@
+name: lockdownvenice
+dependencies:
+  - getpass
+  - rohub
+  - pip
+  - pip:
+    - matplotlib
