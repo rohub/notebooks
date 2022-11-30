@@ -1,0 +1,7 @@
+name: lightatseabed
+dependencies:
+  - numpy
+  - gdal
+  - pip
+  - pip:
+    - matplotlib
