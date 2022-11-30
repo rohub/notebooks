@@ -1,0 +1,8 @@
+name: lockdownvenice
+channels: 
+  -conda-forge 
+dependencies:
+  - pip
+  - pip:
+    - matplotlib
+  - rohub==1.1.0
