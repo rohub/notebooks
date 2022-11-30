@@ -1,6 +1,0 @@
-name: lockdownvenice
-dependencies:
-  - pip
-  - pip:
-    - matplotlib
-  - rohub
