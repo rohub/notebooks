@@ -1,0 +1,14 @@
+name: agriculture-exploration-cosmosuk
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.9
+  - pandas
+  - intake
+  - intake-xarray
+  - hvplot
+  - xarray
+  - aiohttp
+  - scikit-image
+  - pooch
