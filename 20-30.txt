@@ -1,0 +1,61 @@
+20) Wysokość znaków na wskaźnikach wizualnych
+	wychylenia wskazówki, wysokości słupka lub podobnych wielkości wizualnych.
+	Zalecane wysokości (h):
+		od 18 do 22 minut kątowych,
+		od 15 do 18 – wartości akceptowalne,
+		poniżej nieakceptowalne.
+
+21) Przeznaczenie wskaźników wizualnych
+	Psychologiczne i funkcjonalne cechy operatora oraz nieutrudniona widoczność podczas wykonywania zadania określają umiejscowienie 	wskaźnika wizualnego względem operatora. Wielkość pola widzenia operatora jest ograniczona, co zawęża liczbę ednocześnie 	obserwowanych wskaźników.
+	Rozróżnia się dwa różne rodzaje zadań wizualnych:
+		zadania wykrywania,
+		zadania nadzorowania.
+	Do wykrycia sygnału wizualnego wyodrębnia się trzy strefy o zmniejszającej się skuteczności, określane jako:
+		zalecana,
+		akceptowalna,
+		nieodpowiednia
+	Wskaźniki cyfrowe
+	Wskaźniki analogowe  (np. wskazówka, poziom cieczy) 
+
+22) Przeznaczenie wskaźników akustycznych
+	Dźwięki wytwarzane przez wskaźniki akustyczne mogą się różnić natężeniem, częstotliwością, czasem trwania, barwą lub wielkością przerwy między odrębnymi dźwiękami. Do zadań pilnych lub związanych z bezpieczeństwem korzystne może być jednoczesne zastosowanie wskaźnika wizualnego i akustycznego, zamiast tylko jednego z nich. Operator powinien mieć możliwość wyłączenia sygnału akustycznego po jego wykryciu, podczas gdy wskaźnik wizualny (z informacją) pozostaje nadal aktywny.
+
+23) Przeznaczenie wskaźników dotykowych
+	Wskaźniki dotykowe wykorzystują do przekazania informacji stan powierzchni, urzeźbienie lub kontury przedmiotów, które mogą być dotykane (zazwyczaj rękoma i palcami). Wskaźniki dotykowe nie powinny być stosowane do przekazywania głównych informacji, chyba że inne rodzaje wskaźników są nieodpowiednie lub gdy wskaźniki dotykowe są wskaźnikami zastępczymi dla osób z upośledzeniem wzroku (np. ślepota).
+
+24) Elementy sterownicze - rodzaje i zasady doboru
+	Dostępnych jest wiele ręcznych elementów sterowniczych, począwszy od przycisków po pokrętła ręczne. Każdy rodzaj jest odpowiedni do konkretnych wymagań wynikających z zadania i określonych możliwości operatora. Czynniki środowiskowe (np. oświetlenie, drgania) i organizacyjne (np. praca zespołowa, wydzielone stanowisko pracy) również się rozważa.
+
+25) Wymagania ogólne i szczegółowe wynikające z zadań dla elementów sterowniczych
+
+	Wymagania ogólne wynikające z zadania:
+	a) wymagana dokładność nastawienia ręcznego elementu sterowniczego (dokładność);
+	b) wymagana prędkość nastawiania (prędkość);
+	c) wymagania dotyczące siły lub momentu obrotowego (siła). Wymagania szczegółowe wynikające z zadania:
+	d) potrzeba sprawdzenia wzrokiem nastawienia ręcznego elementu sterowniczego (sprawdzenie wzrokiem);
+	e) potrzeba sprawdzenia nastawienia dotykiem (sprawdzenie dotykiem);
+	f) potrzeba unikania nieumyślnego zadziałania (nieumyślne zadziałanie);
+	g) potrzeba unikania ześlizgiwania się ręki z ręcznego elementu sterowniczego (tarcie);
+	h) potrzeba używania rękawic przez operatora (obsługa w rękawicach);
+	i) potrzeba łatwego czyszczenia (łatwość czyszczenia).
+
+26) Niezalecane i nieakceptowalne pozycje przy pracy wg norm
+
+	No to jest jakaś zjebana norma ISO 11226:2000 Ergonomics - Evaluation of static working postures i w sumie chuj wie o co chodzi
+
+27) Pozycje statyczne i dynamiczne
+
+	Zdrowy rodzaj obciazenia miesni to dynamiczne
+
+28) Metody oceny pozycji przy pracy (np. RULA i REBA)
+
+	RULA (Rapid Upper Limb Assessment) – szybka ocena konczyn gornych
+	REBA (Rapid Entire Body Assessment) – szybka ocena calego ciala
+
+29) Aparatura pomiarowa do oceny pozycji przy pracy
+
+	kamery ruchu, inercyjne sensory ruchu, analizatory ruchu, elektromiografy itp. tego typu urządzenia pomagają zbierać dane o ruchach ciała operatora i oceniać, czy pozycja jest bezpieczna.
+
+30) Sposoby działań prewencyjnych w zarządzaniu zdrowiem na stanowisku pracy (interwencja ergonomiczna)
+
+	interwencje ergonomiczne, przez które rozumiemy dostosowanie czynników, z którymi ludzie wchodzą w interakcje do naszych potrzeb, umiejętności oraz ograniczeń. Interwencje ergonomiczne zaliczane są do kategorii fizycznych, poznawczych (umysłowych) lub organizacyjnych. Celem tego przeglądu było sprawdzenie, czy któraś z ergonomicznych interwencji była skuteczna w zapobieganiu zaburzeń mięśniowo-szkieletowych związanych z pracą
