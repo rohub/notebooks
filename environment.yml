@@ -1,0 +1,5 @@
+name: CWC
+dependencies:
+  - pip
+  - pip:
+    - matplotlib
