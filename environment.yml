@@ -1,0 +1,13 @@
+name: multicompartment
+channels:
+  - conda-forge
+  - dokken
+dependencies:
+  - fenics-dolfin
+  - meshio
+  - h5py
+  - matplotlib
+  - pandas
+  - python=3.10
+  - svmtk
+  - pint
